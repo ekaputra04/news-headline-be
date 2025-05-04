@@ -1,0 +1,7 @@
+/bert_encoder/
+/bert2gpt_tokenizer/
+/gpt2_config/
+/model/
+
+*.json
+*.safetensors
